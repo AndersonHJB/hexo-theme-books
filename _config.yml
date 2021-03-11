@@ -1,7 +1,7 @@
 version: 1.1.0
 # 你的头像url
-avatar: /img/avatar.jpg
-favicon: /img/avatar.jpg
+avatar: https://gitee.com/huangjiabaoaiyc/image/raw/master/20210310230628.jpg
+favicon: https://gitee.com/huangjiabaoaiyc/image/raw/master/20210310230628.jpg
 
 #如果博客放置位置不是根目录，则可以通过配置此路径解决静态文件路径错误问题
 # 比如访问地址为 yelog.org/blog 那就需要配置为 blog_path: /blog 才能正常访问
@@ -12,28 +12,28 @@ link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
     rss: /atom.xml
-    github: https://github.com/yelog
-    facebook: https://www.facebook.com/faker.tops
-    twitter:
+    github: https://github.com/AndersonHjb
+    # facebook: 
+    # twitter:
     linkedin:
-    instagram: https://www.facebook.com/faker.tops
-    reddit: https://www.reddit.com/user/yelog/
-    weibo: http://weibo.com/u/2307534817
-    jianshu: https://www.jianshu.com/u/ff56736de7cf
-    zhihu: https://www.zhihu.com/people/jaytp/activities
-    csdn:
-    oschina: https://my.oschina.net/yelog
+    # instagram: https://www.facebook.com/faker.tops
+    reddit: https://www.aiyc.top
+    weibo: https://weibo.com/u/5673898686
+    jianshu: https://www.jianshu.com/u/7def888b8c12
+    zhihu: https://www.zhihu.com/people/aiyue-chuang
+    csdn: https://blog.csdn.net/qq_33254766
+    # oschina: https://my.oschina.net/yelog
     juejin:
-    email: jaytp@qq.com
-    qq: 872336115
+    email: 1432803776@qq.com
+    qq: 1432803776
     kugou: https://www.kugou.com/
-    neteasemusic: https://music.163.com/#/user/home?id=88151013
+    neteasemusic: https://music.163.com/#/user/home?id=1291726576
 
 ##########多作者模式############
 author:
   on: false
   authors:
-    author1: 阁主
+    author1: AI悦创
     author2: 小马哥
 ##############################
 
